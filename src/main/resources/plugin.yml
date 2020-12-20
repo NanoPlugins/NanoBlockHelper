@@ -1,0 +1,4 @@
+name: NanoBlockHelper
+main: com.nanoplugins.blockhelper.BlockHelper
+version: 1.0.0
+authors: [NanoPlugins, Morais]
